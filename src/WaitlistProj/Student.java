@@ -5,7 +5,7 @@
  * 		users to be able alter such information within this object
  */
 
-package assign2;
+package WaitlistProj;
 
 /**
  * The implementation of Comparable is important for Student Objects use with the priority queue, 

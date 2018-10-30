@@ -3,7 +3,7 @@
  * This class is used within the student object to handle when someone attempts to instantiate a student object
  *  with a GPA that is not within the valid range: 0 - 4.0
  */
-package assign2;
+package WaitlistProj;
 
 public class GpaOutOfRangeException extends Exception 
 {

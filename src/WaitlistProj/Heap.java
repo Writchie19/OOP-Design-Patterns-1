@@ -5,7 +5,7 @@
  * 	- Extends the AbstractQueue interface from java, this is to help provide scalability in its ability to interact 
  * 		with other native java objects, and to lay the ground work for other future functionality
  */
-package assign2;
+package WaitlistProj;
 
 import java.util.AbstractQueue;
 import java.util.ArrayList;

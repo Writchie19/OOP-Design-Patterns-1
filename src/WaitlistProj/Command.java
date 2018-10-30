@@ -1,4 +1,4 @@
-package assign2;
+package WaitlistProj;
 
 public interface Command 
 {

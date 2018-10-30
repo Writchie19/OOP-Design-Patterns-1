@@ -1,4 +1,4 @@
-package assign2;
+package WaitlistProj;
 
 // Expected to be used in conjunction with lambda expressions
 public class PluggableCommand

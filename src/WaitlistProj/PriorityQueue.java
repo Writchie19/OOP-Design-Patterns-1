@@ -6,7 +6,7 @@
  * 		force such implementation, although in this case Heap.java does
  *  - PriorityQueue does not need to keep track of the comparator method used sort by priority, as the heap will keep track of it
  */
-package assign2;
+package WaitlistProj;
 
 import java.util.AbstractQueue;
 import java.util.ArrayList;

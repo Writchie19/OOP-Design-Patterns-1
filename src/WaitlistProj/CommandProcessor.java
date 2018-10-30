@@ -1,4 +1,4 @@
-package assign2;
+package WaitlistProj;
 
 import java.util.Stack;
 

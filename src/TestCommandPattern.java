@@ -1,8 +1,8 @@
 import junit.framework.TestCase;
 import java.util.ArrayList;
 
-import assign2.CommandProcessor;
-import assign2.PluggableCommand;
+import WaitlistProj.CommandProcessor;
+import WaitlistProj.PluggableCommand;
 
 //Tests CommandProcessors ability to execute and undo PluggableCommands
 public class TestCommandPattern extends TestCase
