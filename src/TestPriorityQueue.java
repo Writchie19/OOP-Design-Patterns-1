@@ -11,10 +11,10 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Random; // Use for random generation of Gpa's and Units for Student Objects
 
-import assign2.CommandProcessor;
-import assign2.PluggableCommand;
-import assign2.PriorityQueue;
-import assign2.Student;
+import WaitlistProj.CommandProcessor;
+import WaitlistProj.PluggableCommand;
+import WaitlistProj.PriorityQueue;
+import WaitlistProj.Student;
 import junit.framework.TestCase; // Used for Junit testing, TestCase provides the structure necessary to be utilized by TestRunner in Assign1PackageTester
 
 // The class name must begin with "Test" in order to be recognized by the Junit framework

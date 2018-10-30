@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 
-import assign2.GpaOutOfRangeException;
-import assign2.Student;
-import assign2.UnitsOutOfRangeException;
+import WaitlistProj.GpaOutOfRangeException;
+import WaitlistProj.Student;
+import WaitlistProj.UnitsOutOfRangeException;
 import junit.framework.TestCase;
 
 public class TestStudent extends TestCase
